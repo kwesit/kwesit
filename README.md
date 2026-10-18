@@ -20,6 +20,7 @@ Interested in full-stack development, backend engineering, and database-driven a
 Languages: English and French
 
 Technical Skills
+
 Backend Development
 - Java
 - PHP
@@ -29,12 +30,14 @@ Backend Development
 - Spring Boot
 
 Frontend Development
+
 - Vue.js
 - JavaScript
 - HTML5
 - CSS3
 
 Databases and Database Management
+
 - MySQL
 - SQL
 - Database Design
@@ -43,6 +46,7 @@ Databases and Database Management
 - phpMyAdmin
 
 Software Engineering and Tools
+
 - Git and GitHub
 - Debugging and Troubleshooting
 - Software Design Principles
@@ -53,11 +57,14 @@ Software Engineering and Tools
 Featured Projects
 
 1. École Ronsard Infirmary / Sickbay Management Application
+   
 Status: Deployed online and currently in use.
+
 A web-based application developed for the infirmary/sickbay at École Ronsard in Accra, Ghana.
 This project demonstrates my ability to develop and deploy a practical software solution for a real workplace environment.
 
 Technologies Used
+
 - PHP
 - Vue.js
 - HTML5 and CSS3
@@ -67,12 +74,15 @@ Technologies Used
 - Online hosting
 
 Key Highlights
+
 - Developed for use in a real school environment
 - Deployed and accessible online
 - Combines frontend and backend technologies
 - Uses database management and API integration
 
 2. DataPulse — Online Mobile Data Sales Platform
+
+   
 Status: In Development
 DataPulse is a platform I am developing to make purchasing mobile data bundles online more convenient for customers in Ghana.
 The platform is intended to support data bundle purchases for:
@@ -82,12 +92,14 @@ The platform is intended to support data bundle purchases for:
 - AirtelTigo Ghana
 
 Technologies
+
 - Java
 - Spring Boot
 - Vue.js
 - MariaDB
 
 Project Goals
+
 - Provide a user-friendly online data purchasing experience
 - Integrate backend services with a modern frontend
 - Manage data bundles, customer accounts, and orders
@@ -108,24 +120,30 @@ Currently Learning
 Development Roadmap
 
 2026
+
 - Strengthen Java and SQL programming skills
 - Complete and improve practical software projects
 - Enhance backend development and API design skills
 - Build a strong public GitHub portfolio
 
 2027
+
 - Develop more advanced full-stack applications
 - Improve software architecture and testing practices
 - Gain more professional software development experience
 
 2028
+
 - Complete my BIT degree
 - Continue growing as a software engineer
 - Pursue professional opportunities in software development
 
 Career Goals
+
 My goal is to become a professional Full-Stack Software Engineer capable of designing, building, deploying, and maintaining reliable software systems.
+
 I am particularly interested in:
+
 - Full-stack web application development
 - Backend engineering and REST APIs
 - Secure, database-driven systems
@@ -135,6 +153,7 @@ I am particularly interested in:
 I welcome opportunities to learn, collaborate, contribute to meaningful projects, and grow professionally.
 
 Let's Connect
+
 - GitHub: [@kwesit](https://github.com/kwesit)
 - Email:[eli.tugah.dev@gmail.com](mailto:eli.tugah.dev@gmail.com)
 - Location: Accra, Ghana
