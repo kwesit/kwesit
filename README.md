@@ -3,6 +3,7 @@ Hi, I'm Eli Kwesi Tugah
 Full-Stack Developer | Backend Development | Software Engineering
 
 Welcome to my GitHub profile!
+
 I am a Bachelor of Information Technology (BIT) student at Ghana Communication Technology University (GCTU) and a holder of a Professional Diploma in Programming (Software Engineering) from IPMC Ghana.
 I am passionate about designing, developing, and deploying practical software solutions that solve real-world problems. My interests include backend development, database engineering, API development, and modern web technologies.
 
